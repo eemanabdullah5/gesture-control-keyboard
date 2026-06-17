@@ -1,0 +1,8 @@
+{
+    "cooldown_time": 1.5,
+    "gestures": {
+        "FIST": "space",
+        "THUMB_UP": "f",
+        "PEACE_SIGN": "volumeup"
+    }
+}
