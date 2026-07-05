@@ -19,3 +19,6 @@ Before running the project, ensure you have Python installed and install the req
 
 ```bash
 pip install opencv-python mediapipe pyautogui
+```
+
+*(Note: `pyautogui` is the keyboard simulation library used in this project. If you swap it out for another library like `pynput` or `keyboard`, update this install command and the import in `main.py` accordingly.)*
